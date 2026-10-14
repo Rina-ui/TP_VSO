@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="httpx" />
+          <option value="pandas" />
+          <option value="pydantic" />
+          <option value="motor" />
+          <option value="pymongo" />
+          <option value="scipy" />
+          <option value="openpyxl" />
+          <option value="filelock" />
+          <option value="chardet" />
+          <option value="Pillow" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="click" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="passlib" />
+          <option value="psycopg2-binary" />
+          <option value="python-dotenv" />
+          <option value="redis" />
+          <option value="starlette" />
+          <option value="typing-inspection" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
